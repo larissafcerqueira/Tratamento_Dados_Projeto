@@ -1,6 +1,6 @@
 # 🧹 Tratamento de Dados com Python
 
-O notebook contêm tratamento de dois datasets utilizados no projeto final do **Bootcamp de Análise de Dados**. O foco foi preparar os dados para análise, garantindo consistência, padronização e qualidade.
+O notebook contêm o tratamento de dois datasets utilizados no projeto final do **Bootcamp de Análise de Dados**. O foco foi preparar os dados para análise, garantindo consistência, padronização e qualidade.
 
 ## 🚀 Tecnologias Utilizadas
 
