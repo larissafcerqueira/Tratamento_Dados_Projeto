@@ -28,6 +28,3 @@ O notebook contêm o tratamento de dois datasets utilizados no projeto final do 
 
 O tratamento adequado dos dados foi essencial para garantir a qualidade das análises posteriores. Esta etapa permitiu a criação de um dataset limpo e estruturado, facilitando a geração de insights no projeto final.
 
----
-
-Explore o notebook completo e acompanhe todas as etapas do tratamento de dados no repositório. 😊
